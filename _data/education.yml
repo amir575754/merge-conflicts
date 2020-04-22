@@ -1,4 +1,9 @@
 # Degree
+- degree: Moshe
+  uni: BlaBla
+  year: BlaBla
+  # awards:
+  # summary:BlaBla
 - degree: Full Stack Webdeveloper Nanodegree
   uni: Udacity
   year: June, 2014 &mdash; January, 2015
