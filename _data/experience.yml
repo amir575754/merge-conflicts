@@ -4,6 +4,11 @@
   position: GitHub Trainer
   duration: March, 2012 &mdash; Present
   summary: Teach all things Git, give away all the stickers, ensure world peace.
+# BlaBla
+- company: Self BlaBla
+  position: BlaBla
+  duration: BlaBla
+  summary: BlaBla
 
 # Job Title
 - company: Conway Meats
@@ -16,3 +21,8 @@
   position: Supportocat, GitHub for Business
   duration:  June 2016 &mdash; Present
   summary: Provide world class support to customers on the GitHub for Business platform
+# Intern
+- company: BlaBla
+  position: BlaBla
+  duration:  BlaBla
+  summary: BlaBla
